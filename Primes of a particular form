@@ -1,0 +1,1 @@
+Find a prime congruent to 6 (mod 7) of the form 10^m*(2^k-1)+2^(k-1)-1, where m is the number of digits of 2^(k-1).
